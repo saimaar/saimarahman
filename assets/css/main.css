@@ -56,7 +56,8 @@
     list-style: none;
     display: flex;
     text-align: center;
-		margin-left: 90px
+    margin-left: 100px;
+		padding-left: 90px
   }
 
 
@@ -66,16 +67,17 @@
 		border-radius: 50%;
   }
   #aa{
-		font-size: 30px;
     width: 80%;
-    padding-right: 8%;
+    padding-right: 10%;
   }
- #uh{
+
+  #uh{
 	padding-left: 10%;
- }
- #fs{
+  }
+
+  #fs{
 	 font-size: 30px;
- }
+  }
 
 	ol, ul {
 		list-style: none;
