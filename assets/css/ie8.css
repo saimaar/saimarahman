@@ -93,7 +93,7 @@
 		background-color: #333;
 		color: #ffffff;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header2.jpg");
 		background-size: cover;
 		position: relative;
 	}
@@ -179,7 +179,7 @@
 		}
 
 		.main.style2:before {
-			background-image: url("images/overlay1.png");
+			background-image: url("images/header2.png");
 			content: '';
 			height: 100%;
 			left: 0;
