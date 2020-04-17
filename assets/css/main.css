@@ -56,18 +56,26 @@
     list-style: none;
     display: flex;
     text-align: center;
-
+		margin-left: 90px
   }
+
+
   ul.schools img {
     width: 200px;
     height: 200px;
-
+		border-radius: 50%;
   }
   #aa{
+		font-size: 30px;
     width: 80%;
     padding-right: 8%;
   }
-
+ #uh{
+	padding-left: 10%;
+ }
+ #fs{
+	 font-size: 30px;
+ }
 
 	ol, ul {
 		list-style: none;
