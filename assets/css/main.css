@@ -2858,6 +2858,14 @@
 				color: #ffffff;
 			}
 
+
+#proj-btn {
+	padding: 14px !important;
+	/* border-radius: 50px; */
+	line-height: 15px !important;
+	cursor: pointer;
+}
+
 /* Header */
 
 	#header {
