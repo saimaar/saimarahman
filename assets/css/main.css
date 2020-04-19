@@ -2482,6 +2482,12 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+
+
+		}
+		#ta{
+			margin: -10px;
+
 		}
 
 			ul.actions li {
@@ -2861,10 +2867,16 @@
 
 #proj-btn {
 	padding: 14px !important;
+
 	/* border-radius: 50px; */
 	line-height: 15px !important;
 	cursor: pointer;
 }
+
+
+
+
+
 
 /* Header */
 
@@ -3394,6 +3406,7 @@
 
 			ul.actions {
 				margin: 0 0 2em 0;
+
 			}
 
 				ul.actions li {
