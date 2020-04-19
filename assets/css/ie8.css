@@ -179,7 +179,7 @@
 		}
 
 		.main.style2:before {
-			background-image: url("images/header2.png");
+			background-image: url("images/overlay1.png");
 			content: '';
 			height: 100%;
 			left: 0;
