@@ -2753,6 +2753,9 @@
 		}
 
 /* Main */
+#skill{
+    margin: -53px 0 1em 0;
+}
 
 	.main {
 		padding: 6em 0 4em 0 ;
@@ -2775,8 +2778,7 @@
 				border-bottom-color: rgba(255, 255, 255, 0.5);
 			}
 			.main.style2 h1 {
-				font-size: 100px;
-        font-weight: bold;
+				font-size: 2em;
         color: white;
 			}
 
@@ -3049,15 +3051,15 @@
   svg{
 		width: 20%;
     height: 20%;
-    padding: 3%;
+    padding: 5%;
 }
-  
+
 	#footer {
 		padding: 6em 0 6em 0 ;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed, fixed;
-		background-image: url("images/overlay4.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
+		background-image: url("images/header2.jpg"), url("images/header2.jpg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
