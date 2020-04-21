@@ -2039,6 +2039,11 @@
 		margin: -81px 0 1em 0 !important;
 	}
 
+	#dmr{
+		margin: -49px 0 1em 0 !important;
+
+	}
+
 		header.major:after {
 			background: rgba(144, 144, 144, 0.5);
 			content: '';
