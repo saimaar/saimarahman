@@ -2036,7 +2036,7 @@
 	}
 
 	header.major {
-		margin: 0 0 1em 0;
+		margin: 0 0 1em 0 !important;
 	}
 
 		header.major:after {
@@ -2760,7 +2760,7 @@
 
 /* Main */
 #skill{
-    margin: -53px 0 1em 0;
+      margin: -106px 0 1em 0;
 }
 
 	.main {
