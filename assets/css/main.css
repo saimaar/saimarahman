@@ -2036,7 +2036,7 @@
 	}
 
 	header.major {
-		margin: 0 0 1em 0 !important;
+		margin: -81px 0 1em 0 !important;
 	}
 
 		header.major:after {
