@@ -53,12 +53,14 @@
 		line-height: 1;
 	}
   ul.schools{
-    list-style: none;
-    display: flex;
-    text-align: center;
-    margin-left: 13vw;
+		list-style: none;
+		    display: flex;
+		    text-align: center;
+		    margin-left: 17vw;
+		    margin-inline-end: 20vw;
+		}
 
-  }
+  
 
 
   ul.schools img {
