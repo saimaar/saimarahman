@@ -62,9 +62,9 @@
 
 
   ul.schools img {
-    width: 200px;
-    height: 200px;
-		border-radius: 50%;
+		  height: 20vh;
+	    border-radius: 50%;
+	    max-width: 100%;
   }
   #aa{
     /* width: 80%;
